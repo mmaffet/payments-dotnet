@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payments.net", "payments.net\payments.net.csproj", "{2CC3ADF8-BBF9-4D9A-9116-A79ABB8F82E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payments.net.Tests", "payments.net.Tests\payments.net.Tests.csproj", "{C16DD475-92AB-4F7F-90D1-3C3BDAC37B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC3ADF8-BBF9-4D9A-9116-A79ABB8F82E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC3ADF8-BBF9-4D9A-9116-A79ABB8F82E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC3ADF8-BBF9-4D9A-9116-A79ABB8F82E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC3ADF8-BBF9-4D9A-9116-A79ABB8F82E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16DD475-92AB-4F7F-90D1-3C3BDAC37B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16DD475-92AB-4F7F-90D1-3C3BDAC37B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16DD475-92AB-4F7F-90D1-3C3BDAC37B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16DD475-92AB-4F7F-90D1-3C3BDAC37B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

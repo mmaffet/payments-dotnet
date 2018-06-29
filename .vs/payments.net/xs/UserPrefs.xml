@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2CC3ADF8-BBF9-4D9A-9116-A79ABB8F82E8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="payments.net/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="payments.net/Controllers/HomeController.cs" Line="11" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.payments.net PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.payments.net.Tests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
